@@ -33,6 +33,8 @@ default_filetype_include_list = [
     ".scss",    # SCSS
     ".js",      # Javascript
     ".ts",      # Typescript
+    ".jsx",     # JSX (Javascript)
+    ".tsx",     # JSX (Typescript)
     ".c",       # C
     ".cpp",     # C++
     ".h",       # C Header
@@ -48,8 +50,6 @@ default_filetype_include_list = [
     ".m",       # objective-c
     ".sh",      # shell scripts
     ".f",       # fortran
-    ".jsx",     # javascript react
-    ".tsx",     # typescript react
 ]
 default_filetype_exclude_list = []
 # fmt: on
